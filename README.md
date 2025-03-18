@@ -38,4 +38,4 @@ Permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleato
 ✅ Validaciones para evitar errores.  
 
 ## 📜 Licencia  
-Este proyecto está bajo la **Licencia MIT**. Puedes usarlo y modificarlo libremente.  
+ Puedes usarlo y modificarlo libremente.  
