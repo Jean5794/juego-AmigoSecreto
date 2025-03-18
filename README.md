@@ -11,17 +11,6 @@ Permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleato
 ✔️ Realizar un sorteo aleatorio.  
 ✔️ Mostrar el resultado del sorteo en pantalla.  
 
-## Imagenes del jeugo
-
-
-![image](https://github.com/user-attachments/assets/581d42c0-56aa-4e76-b7ba-64f4f67b87e4)
-
-
-
-
-
-
-
 
 ## 📂 Estructura del Proyecto  
 
@@ -42,6 +31,14 @@ Permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleato
 2️⃣ Haz clic en el botón **"Añadir"** para agregarlo a la lista.  
 3️⃣ Una vez ingresados todos los nombres, presiona **"Sortear amigo"**.  
 4️⃣ Se mostrará el nombre del amigo secreto en pantalla.  
+
+## Imagenes del juego
+![image](https://github.com/user-attachments/assets/9130a4e5-8e28-46fd-8cf7-0f34b62fdc4d)
+ Digitando los nombres de los amigos secretos y añadiendo al sorteo.
+![image](https://github.com/user-attachments/assets/581d42c0-56aa-4e76-b7ba-64f4f67b87e4)
+
+
+
 
 ## 📌 Buenas Prácticas Aplicadas  
 ✅ Código limpio y estructurado.  
