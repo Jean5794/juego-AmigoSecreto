@@ -11,6 +11,18 @@ Permite a los usuarios ingresar nombres en una lista y realizar un sorteo aleato
 ✔️ Realizar un sorteo aleatorio.  
 ✔️ Mostrar el resultado del sorteo en pantalla.  
 
+## Imagenes del jeugo
+
+
+![image](https://github.com/user-attachments/assets/581d42c0-56aa-4e76-b7ba-64f4f67b87e4)
+
+
+
+
+
+
+
+
 ## 📂 Estructura del Proyecto  
 
 📁 amigo-secreto/
